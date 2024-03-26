@@ -6,7 +6,8 @@ import Login from '../pages/login/Login'
 const AppRouter = () => {
   return (
   <div>
-    <Navbar/>
+    
+      
     <Login/>
   </div>
   );
